@@ -1,0 +1,52 @@
+body {
+	background-color: rgba(237, 237, 239,1);
+	color: rgba(103,104,107,0.6);
+	font-family: "Lato";
+	font-weight:300;
+	margin-top: 40px;
+}
+
+p {
+	line-height: 28px;
+}
+
+h1 {
+	color: rgba(103,103,103,1);
+	font-weight: 700;
+	font-size:50px;
+	letter-spacing: 1px;
+}
+
+.container-fluid {
+	max-width: 1150px;
+}
+
+h2 {
+	font-weight: 300;
+	font-size: 12px;
+	letter-spacing: 1px;
+	//margin-top: 0;
+}
+
+a, a:hover, a:visited {
+	color: rgba(103,104,107,0.6);
+	text-decoration: none;
+	border-bottom: rgba(103,104,107,0.6) 1px dotted;
+}
+
+h2 a, a:hover, a:visited {
+	color: rgba(103,104,107,0.6);
+	font-weight: 700;
+	text-decoration: none;
+	border-bottom: rgba(103,104,107,0.6) 1px dotted;
+}
+
+.content {
+	padding-top: 50px;
+}
+
+.info1 {
+	font-size: 12px;
+	line-height: 28px;
+	font-weight: 700;
+}
